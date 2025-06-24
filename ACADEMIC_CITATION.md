@@ -8,7 +8,7 @@ If you use SimModeler in your research, please cite our work using the following
 ```bibtex
 @software{simmodeler2025,
   title={SimModeler: 3D Offset-Based Firmware Birthmark Extraction for Hardware Classification},
-  author={Firmware Birthmark Research Group},
+  author={CHUNG CHIH-KO},
   year={2025},
   url={https://github.com/jankjong063/SimModeler},
   note={Open-source firmware analysis tool for academic research}
@@ -16,7 +16,7 @@ If you use SimModeler in your research, please cite our work using the following
 
 @article{firmware_birthmark_methodology2025,
   title={Hardware-Specific Firmware Birthmark Extraction Using 3D Offset Patterns},
-  author={[CHUNG CHIH-KO]},
+  author={CHUNG CHIH-KO},
   journal={[Target Journal - e.g., IEEE Transactions on Information Forensics and Security]},
   year={2025},
   note={Under review}
@@ -24,10 +24,10 @@ If you use SimModeler in your research, please cite our work using the following
 ```
 
 ### IEEE Style Citation
-SimModeler Development Team, "SimModeler: 3D Offset-Based Firmware Birthmark Extraction for Hardware Classification," GitHub repository, 2025. [Online]. Available: https://github.com/jankjong063/SimModeler
+CHUNG CHIH-KO, "SimModeler: 3D Offset-Based Firmware Birthmark Extraction for Hardware Classification," GitHub repository, 2025. [Online]. Available: https://github.com/jankjong063/SimModeler
 
 ### APA Style Citation
-Firmware Birthmark Research Group. (2025). *SimModeler: 3D Offset-Based Firmware Birthmark Extraction for Hardware Classification* [Computer software]. GitHub. https://github.com/jankjong063/SimModeler
+CHUNG, CHIH-KO. (2025). *SimModeler: 3D Offset-Based Firmware Birthmark Extraction for Hardware Classification* [Computer software]. GitHub. https://github.com/jankjong063/SimModeler
 
 ## Research Context
 
@@ -59,7 +59,7 @@ Please also consider citing these related works that provide context for firmwar
 ## Usage in Academic Papers
 
 ### Recommended Acknowledgment Text
-"This research utilized SimModeler, an open-source firmware analysis tool developed by the Firmware Birthmark Research Group, for extracting 3D offset-based hardware fingerprints from ArduPilot firmware samples."
+"This research utilized SimModeler, an open-source firmware analysis tool developed by jank jong, for extracting 3D offset-based hardware fingerprints from ArduPilot firmware samples."
 
 ### Methodology Section Example
 "We employed SimModeler's 3D offset pattern extraction algorithm to analyze firmware samples. The tool extracts feature vectors in the form [opcode_offset, codeblock_offset, branch_offset] for each assembly instruction, creating unique hardware-specific fingerprints that enable classification of different flight controller platforms running identical firmware versions."
@@ -72,8 +72,8 @@ Please also consider citing these related works that provide context for firmwar
 For academic collaboration, questions about methodology, or requests for research data:
 
 - **GitHub Issues**: For technical questions and bug reports
-- **Academic Email**: [research-contact@institution.edu]
-- **Research Group**: Firmware Birthmark Research Group
+- **Author Email**: jank.jong@gmail.com
+- **Author**: jank jong
 
 ## Ethical Considerations
 
