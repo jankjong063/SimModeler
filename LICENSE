@@ -1,0 +1,59 @@
+# SimModeler Academic License
+
+Copyright (c) 2025 jank jong (jank.jong@gmail.com)
+
+## 1. Permission for Academic Use
+
+This SimModeler software, including all source code, scripts, documentation, and related files ("Software"), is provided **exclusively for academic, research, and educational purposes**. You are permitted to:
+
+- Use the SimModeler Software in academic research projects.
+- Modify or adapt the SimModeler Software for non-commercial, academic purposes.
+- Share the SimModeler Software within research groups or academic institutions under the same terms.
+
+## 2. Restrictions on Commercial Use
+
+You are **not allowed** to use this SimModeler Software or any derivative work for **commercial purposes** without obtaining prior written authorization from the author and agreeing to a commercial licensing agreement.
+
+Commercial purposes include but are not limited to:
+
+- Integrating the SimModeler Software into a paid product or service.
+- Using the SimModeler Software in a business or commercial environment.
+- Distributing modified or unmodified versions as part of a commercial offering.
+
+To obtain a commercial license, please contact:
+
+**Author**: jank jong
+**Email**: jank.jong@gmail.com
+
+A licensing fee or revenue-sharing agreement may be required for commercial usage.
+
+## 3. Prohibited Activities
+
+Without explicit written authorization from the author, you may NOT:
+
+- Use the SimModeler Software in proprietary or closed-source applications.
+- Sell, license, or sublicense the SimModeler Software.
+- Remove or alter copyright or license notices.
+- Use the SimModeler Software for any non-academic research purposes.
+- Copy, reproduce, or implement the core concepts, algorithms, or methodologies for commercial use.
+- Use, replicate, or distribute the output data formats, feature extraction formats, or result structures for commercial purposes.
+- Reverse engineer or extract the core ideas for implementation in other commercial software or systems.
+
+## 4. Author Rights Protection
+
+The author retains all intellectual property rights to the SimModeler Software. The following are specifically protected under this license:
+
+- **Core Ideas and Concepts**: The fundamental approach of 3D offset-based firmware birthmark extraction
+- **Algorithms and Methodologies**: All feature extraction algorithms, classification methods, and analytical techniques
+- **Data Formats and Structures**: Output formats including firmware_database.json, unique_features.csv, and all feature vector formats
+- **Implementation Details**: Code architecture, data processing pipelines, and technical implementations
+
+Any unauthorized use, reproduction, or commercial exploitation of these protected elements outside of academic research purposes is strictly prohibited.
+
+## 5. Disclaimer
+
+This SimModeler Software is provided "as is", without warranty of any kind. The author shall not be liable for any claim, damages, or other liability arising from the use of the Software.
+
+## 6. Acknowledgement
+
+By using this SimModeler Software, you acknowledge that you have read, understood, and agreed to the terms of this Academic License. You further acknowledge that any use outside of academic research requires explicit written authorization from the author.
