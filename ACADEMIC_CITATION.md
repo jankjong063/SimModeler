@@ -10,13 +10,13 @@ If you use SimModeler in your research, please cite our work using the following
   title={SimModeler: 3D Offset-Based Firmware Birthmark Extraction for Hardware Classification},
   author={Firmware Birthmark Research Group},
   year={2025},
-  url={https://github.com/[your-repo]/SimModeler},
+  url={https://github.com/jankjong063/SimModeler},
   note={Open-source firmware analysis tool for academic research}
 }
 
 @article{firmware_birthmark_methodology2025,
   title={Hardware-Specific Firmware Birthmark Extraction Using 3D Offset Patterns},
-  author={[Author Names]},
+  author={[CHUNG CHIH-KO]},
   journal={[Target Journal - e.g., IEEE Transactions on Information Forensics and Security]},
   year={2025},
   note={Under review}
@@ -24,10 +24,10 @@ If you use SimModeler in your research, please cite our work using the following
 ```
 
 ### IEEE Style Citation
-SimModeler Development Team, "SimModeler: 3D Offset-Based Firmware Birthmark Extraction for Hardware Classification," GitHub repository, 2025. [Online]. Available: https://github.com/[your-repo]/SimModeler
+SimModeler Development Team, "SimModeler: 3D Offset-Based Firmware Birthmark Extraction for Hardware Classification," GitHub repository, 2025. [Online]. Available: https://github.com/jankjong063/SimModeler
 
 ### APA Style Citation
-Firmware Birthmark Research Group. (2025). *SimModeler: 3D Offset-Based Firmware Birthmark Extraction for Hardware Classification* [Computer software]. GitHub. https://github.com/[your-repo]/SimModeler
+Firmware Birthmark Research Group. (2025). *SimModeler: 3D Offset-Based Firmware Birthmark Extraction for Hardware Classification* [Computer software]. GitHub. https://github.com/jankjong063/SimModeler
 
 ## Research Context
 
